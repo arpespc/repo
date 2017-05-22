@@ -1,2 +1,2 @@
 # repo
-## configure somethong
+## store somthing
