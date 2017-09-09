@@ -1,6 +1,8 @@
+imap kj <esc>
 set nu
 syntax on
 filetype on
+filetype plugin on
 set autoindent
 set smartindent
 set shiftwidth=4
@@ -20,10 +22,6 @@ set ruler
 set fileencodings=utf-8,gb2312,gb18030,gbk,uc-bom,cp936,latin1
 set enc=utf8
 set fencs=utf8,gbk,gb2312,gb18030
-
-"auto complete brackets and quote
-
-"end auto complete 
 
 "Added by pathogen plugin manager
 execute pathogen#infect()
